@@ -1,9 +1,9 @@
 # Escape
 ![logo](https://www.qaviton.com/wp-content/uploads/logo-svg.svg)  
-[![version](https://img.shields.io/pypi/v/escape.svg)](https://pypi.python.org/pypi)
-[![license](https://img.shields.io/pypi/l/escape.svg)](https://pypi.python.org/pypi)
-[![open issues](https://img.shields.io/github/issues/qaviton/escape)](https://github/issues-raw/qaviton/qaviton_package_manager)
-[![downloads](https://img.shields.io/pypi/dm/escape.svg)](https://pypi.python.org/pypi)
+[![version](https://img.shields.io/pypi/v/pyescape.svg)](https://pypi.python.org/pypi)
+[![license](https://img.shields.io/pypi/l/pyescape.svg)](https://pypi.python.org/pypi)
+[![open issues](https://img.shields.io/github/issues/qaviton/escape)](https://github/issues-raw/qaviton/escape)
+[![downloads](https://img.shields.io/pypi/dm/pyescape.svg)](https://pypi.python.org/pypi)
 ![code size](https://img.shields.io/github/languages/code-size/qaviton/escape)
 -------------------------  
   

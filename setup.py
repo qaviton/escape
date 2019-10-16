@@ -8,7 +8,7 @@ if __name__ == "__main__":
     with open("README.md", encoding="utf8") as f: long_description = f.read()
     setup(
         name='pyescape',
-        version="2019.10.16.7.48.18.38427",
+        version="2019.10.16.8.31.59.29937",
         author="yehonadav",
         author_email="yonadav.barilan@gmail.com",
         description="escape characters functions and utilities",
